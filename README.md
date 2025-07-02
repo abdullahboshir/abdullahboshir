@@ -1,49 +1,39 @@
-# 👋 Hi there, I'm Abdullah Boshir
+# 🚀 Abdullah Boshir's Skill Showcase
 
-### 💻 Fullstack Developer | MERN Stack | Problem Solver
-
-I'm a passionate developer who builds real-world web applications that are fast, clean, and user-friendly. I enjoy solving problems through code and love turning ideas into reality.
-
-- 🚀 I'm currently working on: `React`, `Node.js`, `MongoDB`, `Next.js`
-- 🌱 Currently learning: `TypeScript`, `GraphQL`, `DevOps`
-- 🔧 Tools I use: VS Code, Git, Postman, Chrome DevTools, Figma
-- 💬 Ask me about: Fullstack development, REST APIs, UI/UX
-- 📫 How to reach me: **abdullah@example.com** (replace with real)
-- ⚡ Fun fact: I can debug faster with coffee ☕ 😄
+Welcome to my tech & design toolbox — where creativity meets code!  
+From **fullstack web development** to **graphic design**, here’s what I work with:
 
 ---
 
-### 🛠️ Technologies & Tools
+## 💻 Web Development Skills
 
-![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+| Frontend | Backend | Database | Tools |
+|----------|---------|----------|-------|
+| HTML5, CSS3, JavaScript | Node.js, Express.js | MongoDB, PostgreSQL, SQL | Git, GitHub, Postman |
+| React.js, Redux, Next.js | REST APIs, Prisma | Mongoose | VS Code, Chrome DevTools |
 
 ---
 
-### 📊 GitHub Stats
+## 🎨 Graphic Design & Productivity
 
-![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahBoshir&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahBoshir&layout=compact)](https://github.com/AbdullahBoshir)
-
----
-
-### 📌 Featured Projects
-
-- 🔗 [My Portfolio Website](https://yourportfolio.com)
-- 📝 [Blog App with MERN Stack](https://github.com/AbdullahBoshir/blog-app)
-- 📦 [E-Commerce Fullstack App](https://github.com/AbdullahBoshir/ecommerce-app)
+| Design Tools | Office Tools |
+|--------------|--------------|
+| Adobe Photoshop | Microsoft Word |
+| Adobe Illustrator | Microsoft Excel |
+| Canva (optional) | Microsoft PowerPoint |
 
 ---
 
-### 🤝 Let's Connect
+## 📌 Summary
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourname)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook)](https://facebook.com/yourprofile)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail)](mailto:yourmail@gmail.com)
+I combine the power of clean **frontend design**, strong **backend logic**, and professional **graphic & office tools** to deliver **complete digital solutions**.
+
+> 🔥 Passionate about building real-world projects that look great, work fast, and solve problems.
+
+---
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
 
