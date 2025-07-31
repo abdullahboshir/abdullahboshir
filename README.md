@@ -1,5 +1,5 @@
 <!-- Optional Banner Image -->
-![Banner]([https://your-banner-url.com](https://github.com/abdullahboshir/abdullahboshir/blob/main/Black%20Minimalist%20Corporate%20Business%20Profile%20LinkedIn%20Banner%20(1).png))
+![Banner](https://github.com/abdullahboshir/abdullahboshir/blob/main/Black%20Minimalist%20Corporate%20Business%20Profile%20LinkedIn%20Banner%20(1).png)
 
 
 
