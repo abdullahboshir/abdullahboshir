@@ -1,5 +1,7 @@
 <!-- Optional Banner Image -->
-<!-- ![Banner](https://your-banner-url.com) -->
+![Banner]([https://your-banner-url.com](https://github.com/abdullahboshir/abdullahboshir/blob/main/Black%20Minimalist%20Corporate%20Business%20Profile%20LinkedIn%20Banner%20(1).png))
+
+
 
 <h1 align="center">👋 Hi, I'm <span style="color:#00BFFF">Abdullah Boshir</span></h1>
 <h3 align="center">🚀 Fullstack Web Developer | MERN Stack | PostgreSQL & UI/UX Enthusiast</h3>
