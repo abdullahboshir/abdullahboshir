@@ -170,7 +170,7 @@ A full-stack travel companion application for destination discovery, trip planni
   <a href="https://abdullahboshir.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="tel:+8801852141471">
+  <a href="tel:+8801622000399">
     <img src="https://img.shields.io/badge/WhatsApp_%2F_Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
   </a>
 </div>
