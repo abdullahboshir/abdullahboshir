@@ -1,8 +1,7 @@
 ![Banner](https://github.com/abdullahboshir/abdullahboshir/blob/main/Black%20Minimalist%20Corporate%20Business%20Profile%20LinkedIn%20Banner%20(1).png)
 
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Abdullah+Boshir;Fullstack+Developer;Building+Digital+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Abdullah+Boshir;Full-Stack+Software+Engineer;Architecting+Multi-Tenant+SaaS+%26+ERP+Systems;Building+Autonomous+AI+Chatbots+%26+Agents" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -13,261 +12,165 @@
 
 ## 🚀 About Me
 
-```javascript
+```typescript
 const abdullahBoshir = {
   name: "Abdullah Boshir",
-  role: "Fullstack Developer",
-  location: "Cumilla, Chauttagram, Bangladesh",
-  education: {
-    mba: "MBA in Marketing (2023-2025)",
-    bba: "BBA in Marketing (2017-2022)",
-    institution: "Cumilla Victoria Govt. College (NU)"
-  },
-  courses: [
-    "Next Level Web Development - Programming Hero (2024)",
-    "Complete Web Development Course with Jhankar Mahbub - Programming Hero (2022)"
+  role: "Full-Stack Software Engineer (SaaS, ERP & AI Systems)",
+  location: "Cumilla, Chattogram, Bangladesh (Open to Remote & Relocation)",
+  currentWork: "Full-Stack Developer @ Signature Bangla (signaturebangla.com)",
+  flagshipSystems: [
+    "Manoxen — Multi-Tenant Enterprise ERP, POS, HRM & CRM Monorepo",
+    "Banijjik — No-Code Multi-Business & E-Commerce SaaS Platform",
+    "Hexagonal AI Chatbot Engine — Multi-Provider LLM Gateway & Tool-Calling Agent"
   ],
-  passion: "Building scalable web applications with modern technologies",
-  currentlyLearning: "Advanced React Patterns & Microservices",
-  funFact: "I turn coffee into code ☕",
-  philosophy: "I don't believe in declarations; I believe in delivering results that satisfy clients"
+  architectureFocus: [
+    "3-Tier Domain-Driven Design (DDD) & Clean Architecture",
+    "Multi-Tenant Data Isolation & Redis-Cached Dynamic RBAC",
+    "Turborepo Monorepos & End-to-End Type-Safe Contracts (Zod)",
+    "OpenAI & Google Gemini Autonomous Tool-Calling Agents"
+  ],
+  education: {
+    mba: "MBA in Marketing (2023–2025) — Cumilla Victoria Govt. College (NU)",
+    bba: "BBA in Marketing (2017–2022) — Cumilla Victoria Govt. College (NU)"
+  },
+  philosophy: "Engineering scalable software that solves real business operations — results over declarations."
 };
 ```
 
-## 🛠️ Technical Skills
+---
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+## 🛠️ Technical Skills & Ecosystem
+
+### Frontend Engineering
+![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=react-hook-form&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 
-### Backend Development
+### Backend, Database & Architecture
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT_&_RBAC-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 
-### Design & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+### AI Engineering, Monorepo & DevOps
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright_E2E-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-## 📊 GitHub Stats
+---
+
+## 🏢 Production Experience & Flagship Systems
+
+### 1. 🛍️ Signature Bangla — Commercial E-Commerce & Retail Ecosystem
+> **Role:** Full-Stack Developer (`2025 – Present`, Lead Engineering Ownership from `Jul 2026`)  
+> **Live Storefront:** [signaturebangla.com](https://signaturebangla.com)
+
+- Directed technical specifications from project inception and took full hands-on ownership of an incomplete (~40%) codebase in July 2026, refactoring core modules and engineering the remaining 60% to launch into production.
+- Built Google Maps reverse-geocoding location & address management, multi-step checkout workflows, and real-time **Socket.io** order status tracking using **Next.js 15, React 19, and Redux Toolkit**.
+- Integrated the storefront with the company's internal multi-tenant ERP & POS platform (**Manoxen**) to synchronize live stock, order fulfillment, and retail branch operations.
+
+---
+
+### 2. 🏛️ Manoxen — Multi-Tenant Enterprise ERP, POS, HRM & CRM Platform
+> **Architecture:** 3-Tier Domain-Driven Design (DDD) Turborepo Monorepo  
+> **Live Staging / App:** [Manoxen Dashboard](https://test-app.signaturebangla.com/signaturebdtesting/dashboard) *(Enterprise Monorepo)*
+
+- **18+ Business Verticals:** Catalog, Sales, POS, Inventory, Accounting, HRM, CRM, Logistics, and Storefront under a hierarchical **Organization → Business Unit → Outlet** tenancy model.
+- **Zero-Trust Data Isolation:** Request-scoped multi-tenant isolation using Node.js `AsyncLocalStorage`, custom Mongoose query hooks, time-ordered **UUIDv7** domain IDs, and **Redis-cached Dynamic RBAC**.
+- **Shared Contracts:** Unified Zod validation and DTO inference across frontend and backend workspaces, verified with Playwright E2E test suites.
+
+---
+
+### 3. 🚀 Banijjik — No-Code Multi-Business & E-Commerce SaaS Platform
+> **Status:** Active SaaS Product *(Private Commercial Monorepo)*
+
+- A multi-tenant **No-Code SaaS platform** designed to let merchants launch and operate complete online storefronts and multi-business operations without writing code.
+- Engineered end-to-end **Cash-on-Delivery (COD)** order lifecycle management, courier delivery & fee reconciliation, lead orchestration, and boundary-enforced shared UI/validation packages.
+
+---
+
+### 4. 🤖 Pluggable AI Sales & Order-Management Chatbot Engine
+> **Core Module:** Integrated across **Manoxen** & **Banijjik**
+
+- **Hexagonal LLM Gateway:** Decoupled Ports & Adapters architecture supporting automatic multi-provider fallback across **OpenAI and Google Gemini**, complete with per-tenant API key resolution and token usage metering.
+- **Autonomous Tool-Calling Loop:** Multi-round conversational agent capable of searching live product catalogs (`search_products`), inspecting real-time order statuses (`get_order`), and executing customer order cancellations (`cancel_order`).
+
+```mermaid
+flowchart LR
+    A["Customer Chat (Messenger / Web)"] --> B["Chat Agent Use-Case"]
+    B --> C["Hexagonal LLM Gateway (OpenAI / Gemini)"]
+    B --> D["Autonomous Tool-Calling Loop"]
+    D --> E["search_products (Catalog)"]
+    D --> F["get_order (Sales/Order)"]
+    D --> G["cancel_order (Fulfillment)"]
+```
+
+---
+
+## 🌐 Open-Source Projects
+
+### 🏠 Hall & Dining Management System
+A full-featured role-based administration platform for managing residential hall operations, student accounts, and dining meal operations.
+- **Stack:** Next.js, TypeScript, Material-UI (DataGrid), Redux Toolkit, Node.js, Express.js, MongoDB, Mongoose, Zod, JWT RBAC
+- **Links:** [Live Demo](https://hall-management-client.vercel.app/login) • [Client Repo](https://github.com/abdullahboshir/Hall_management_client_updated) • [Server Repo](https://github.com/abdullahboshir/Dining_management_server_updated)
+
+### 🌍 Wayfarer (Travel Buddy) — Smart Travel Planning Platform
+A full-stack travel companion application for destination discovery, trip planning, and community travel logs.
+- **Stack:** React.js, Next.js, Tailwind CSS, Node.js, Express.js, PostgreSQL, Prisma ORM, JWT
+- **Links:** [Live Demo](https://travel-buddy-client-eight.vercel.app/) • [Client Repo](https://github.com/abdullahboshir/Travel_buddy_client) • [Server Repo](https://github.com/abdullahboshir/Travel_buddy_server)
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdullahboshir&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&icon_color=6366F1" alt="GitHub Stats" />
-  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahboshir&theme=radical&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakNum=FFFFFF&currStreakLabel=6366F1&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahboshir&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Top Languages" />
-</div>
-
-## 🏆 Featured Projects
-
-### 🌍 Travel Buddy
-A comprehensive tour services website with interactive features and modern UI.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
-
-**Key Features:**
-- Interactive tour booking system
-- Modern responsive UI with Tailwind CSS
-- PostgreSQL database with Prisma ORM
-- RESTful API with Node.js and Express.js
-- JWT authentication and authorization
-- Smooth user experience with performance optimization
-
-**🔗 Links:**
-- [Live Demo](https://travel-buddy-client-eight.vercel.app/)
-- [Client Repository](https://github.com/abdullahboshir/Travel_buddy_client)
-- [Server Repository](https://github.com/abdullahboshir/Travel_buddy_server)
-
 ---
-
-### 🏠 Hall Management System
-A full-featured web application for managing hall operations, users, and meal data with advanced admin control.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=flat-square&logo=redux&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3B82F6?style=flat-square&logo=zod&logoColor=white)
-
-**Key Features:**
-- Multi-role authentication (Student, Manager, Moderator, Admin, Super Admin)
-- Role-based dashboards with different functionalities
-- Real-time notifications and form management with Zod validation
-- MUI DataGrid & DatePickers for enhanced user experience
-- MongoDB with Mongoose for scalable data handling
-- JWT-based authentication and role-based access control
-- PDF generation and export functionality
-
-**🔗 Links:**
-- [Live Demo](https://hall-management-client.vercel.app/login)
-- [Client Repository](https://github.com/abdullahboshir/Hall_management_client_updated)
-- [Server Repository](https://github.com/abdullahboshir/Dining_management_server_updated)
-
----
-
-### 🔧 Parts Zone
-A clean and responsive car parts website designed for simple user experience.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=react-hook-form&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
-
-**Key Features:**
-- Clean and responsive design with Tailwind CSS
-- Custom CSS for enhanced styling
-- React Hook Form for form management
-- React Router for navigation
-- Minimal design while maintaining real-world structure
-- Performance optimized backend with Node.js and Express.js
-
-**🔗 Links:**
-- [Live Demo](https://parts-zone.web.app/)
-- [Client Repository](https://github.com/abdullahboshir/parts_zone_client)
-- [Server Repository](https://github.com/abdullahboshir/parts_zone_server)
-
-## 🎯 What I Do
-
-- 🔧 **Fullstack Development**: Building complete web applications from frontend to backend
-- 🎨 **UI/UX Design**: Creating intuitive and responsive user interfaces with modern design principles
-- 🗄️ **Database Design**: Designing efficient database schemas with MongoDB and PostgreSQL
-- 🚀 **Performance Optimization**: Optimizing applications for speed and scalability
-- 🔒 **Security Implementation**: Implementing JWT authentication and role-based authorization
-- 📱 **Responsive Design**: Ensuring applications work seamlessly across all devices
-- 🎯 **Problem Solving**: Creative solutions for complex web development challenges
-
-## 📈 My Development Process
-
-```mermaid
-graph LR
-    A[Planning & Analysis] --> B[Design & Prototyping]
-    B --> C[Development]
-    C --> D[Testing & Debugging]
-    D --> E[Deployment]
-    E --> F[Maintenance & Updates]
-```
 
 ## 🎓 Education & Certifications
 
-### Academic Background
-- **MBA in Marketing** (2023-2025) - Cumilla Victoria Govt. College (NU)
-- **BBA in Marketing** (2017-2022) - Cumilla Victoria Govt. College (NU)
+- **Master’s (MBA) in Marketing** (2023–2025) — Cumilla Victoria Govt. College (National University)
+- **Bachelor’s (BBA) in Marketing** (2017–2022) — Cumilla Victoria Govt. College (National University)
+- **Next Level Web Development (Full-Stack Track)** — Programming Hero (2024)
+- **Complete Web Development Course With Jhankar Mahbub** — Programming Hero (2022)
+- **Communication Foundations** — LinkedIn Learning (2025)
 
-### Professional Development
-- **Next Level Web Development** - Programming Hero (2024)
-- **Complete Web Development Course** with Jhankar Mahbub - Programming Hero (2022)
-
-## 🌟 Core Competencies
-
-### Programming Languages
-- **JavaScript/TypeScript**: Advanced proficiency in modern ES6+ features
-- **HTML/CSS**: Expert level with responsive design principles
-- **SQL**: Database querying and management
-
-### Frameworks & Libraries
-- **Frontend**: React.js, Next.js, Redux Toolkit, Material-UI, Bootstrap, DaisyUI
-- **Backend**: Node.js, Express.js, Mongoose, Prisma
-- **Database**: MongoDB, PostgreSQL
-- **Styling**: Tailwind CSS, Custom CSS, Responsive Design
-- **Forms**: React Hook Form with Zod validation
-
-### Development Tools
-- **Version Control**: Git, GitHub
-- **Package Managers**: npm, yarn
-- **API Testing**: Postman
-- **Design Tools**: Figma, Adobe Photoshop, Adobe Illustrator
-- **Deployment**: Vercel, Firebase
+---
 
 ## 📫 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/abdullahboshir" target="_blank">
+  <a href="https://www.linkedin.com/in/abdullahboshir/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  
   <a href="mailto:abdullahboshir@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  
   <a href="https://abdullahboshir.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  
   <a href="tel:+8801852141471">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+    <img src="https://img.shields.io/badge/WhatsApp_%2F_Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
   </a>
-</div>
-
-## 🎉 Fun Facts
-
-- 🎮 I love playing with new technologies and building side projects
-- ☕ Coffee is my fuel for coding sessions
-- 📚 Always learning and exploring new frameworks and libraries
-- 🌍 Passionate about creating solutions that make a difference
-- 🎯 Goal: Contribute to open-source projects and help the developer community
-- 💼 Background in Marketing gives me unique perspective on user experience
-
-## 📊 Weekly Development Breakdown
-
-```text
-💻 This Week I Spent My Time On:
-🟡 JavaScript/TypeScript  ████████████████████░░░░  80.0%
-🟢 HTML/CSS               ████████░░░░░░░░░░░░░░░░  20.0%
-🟠 React/Next.js          ████████████████████████ 100.0%
-🔴 Node.js/Express         ████████████████████████ 100.0%
-```
-
-## 🌍 Languages
-
-- **English**: Fluent
-- **Hindi**: Conversational
-- **Bengali**: Native
-
----
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdullahboshir&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
-
----
-
-<div align="center">
-  <sub>Made with ❤️ by Abdullah Boshir</sub>
 </div>
